@@ -11,4 +11,5 @@ Aplicativo simples que simula a geração dos números feitos em uma máquina el
 - Adobe Photoshop
 - Netbeans IDE 8.2
 
+## Licença
 ![GitHub](https://img.shields.io/github/license/erickwelber/Quina)
