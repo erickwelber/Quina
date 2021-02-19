@@ -9,7 +9,7 @@ Aplicativo simples que simula a geração dos números feitos em uma máquina el
 ## Tecnologia
 - Java
 - Adobe Photoshop
-- Netbeans IDE 8.2
+- NetBeans IDE 8.2
 
 ## Licença
 ![GitHub](https://img.shields.io/github/license/erickwelber/Quina)
