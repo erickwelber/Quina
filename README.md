@@ -1,6 +1,6 @@
 # Quina
-
-Aplicativo Quina da loteria Caixa desenvolvido para fins educacionais.
+# _Aplicativo Quina da Loterias Caixa desenvolvido para fins educacionais._
+Aplicativo simples que simula a geração dos números feitos em uma máquina eletrônica em qualquer casa lotérica. O sistema possui todos os números (1-80) que são considerados em jogo de máquina eletrônica real. Há uma pequena alteração comentada no código que gera os 10 números mais sorteados da Quina desde a sua criação.
 
 <br/>
 
