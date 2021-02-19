@@ -47,7 +47,7 @@ public class QuinaGui extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 48)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\erick\\Documents\\NetBeansProjects\\Quina\\QUINA-logo.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\erick\\Documents\\NetBeansProjects\\Quina\\Imagens\\QUINA-logo.jpg")); // NOI18N
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
